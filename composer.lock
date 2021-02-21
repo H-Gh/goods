@@ -48,16 +48,16 @@
         },
         {
             "name": "hgh/fox-framework",
-            "version": "v1.2.2",
+            "version": "v1.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/H-Gh/fox-framework.git",
-                "reference": "6c3706f6e293133cf4b0144ddf8246634343b104"
+                "reference": "3fb940c01d56628370d8077ceb0e528555816f94"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/H-Gh/fox-framework/zipball/6c3706f6e293133cf4b0144ddf8246634343b104",
-                "reference": "6c3706f6e293133cf4b0144ddf8246634343b104",
+                "url": "https://api.github.com/repos/H-Gh/fox-framework/zipball/3fb940c01d56628370d8077ceb0e528555816f94",
+                "reference": "3fb940c01d56628370d8077ceb0e528555816f94",
                 "shasum": ""
             },
             "require": {
@@ -87,9 +87,9 @@
             "description": "The mini framework",
             "support": {
                 "issues": "https://github.com/H-Gh/fox-framework/issues",
-                "source": "https://github.com/H-Gh/fox-framework/tree/v1.2.2"
+                "source": "https://github.com/H-Gh/fox-framework/tree/v1.2.3"
             },
-            "time": "2021-02-21T20:43:18+00:00"
+            "time": "2021-02-21T21:09:49+00:00"
         },
         {
             "name": "hgh/helpers",
