@@ -11,19 +11,16 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "hgh/fox-framework": "^1.0",
         "vlucas/phpdotenv": "^4.1",
         "ext-pdo": "*",
         "ext-openssl": "*",
         "ext-mcrypt": "*",
-        "ext-json": "*"
+        "ext-json": "*",
+        "hgh/fox-framework": "^1.2"
     },
     "autoload": {
         "psr-4": {
             "App\\": "app/"
-        },
-        "files": [
-            "app/Utilities/helpersFunctions.php"
-        ]
+        }
     }
 }
