@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e5afd0ce155a21902e96952f23b53c2d",
+    "content-hash": "a2155cb2d5e2d5c04a03508ccab145b8",
     "packages": [
         {
             "name": "hgh/exception-handler",
@@ -48,16 +48,16 @@
         },
         {
             "name": "hgh/fox-framework",
-            "version": "v1.1.5",
+            "version": "v1.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/H-Gh/fox-framework.git",
-                "reference": "71c5782286a15fd5b9d45815aeeb7c166b0e8a0f"
+                "reference": "6c3706f6e293133cf4b0144ddf8246634343b104"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/H-Gh/fox-framework/zipball/71c5782286a15fd5b9d45815aeeb7c166b0e8a0f",
-                "reference": "71c5782286a15fd5b9d45815aeeb7c166b0e8a0f",
+                "url": "https://api.github.com/repos/H-Gh/fox-framework/zipball/6c3706f6e293133cf4b0144ddf8246634343b104",
+                "reference": "6c3706f6e293133cf4b0144ddf8246634343b104",
                 "shasum": ""
             },
             "require": {
@@ -69,7 +69,10 @@
             "autoload": {
                 "psr-4": {
                     "Fox\\": "src/"
-                }
+                },
+                "files": [
+                    "../fox-framework/src/Utilities/helpersFunctions.php"
+                ]
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -84,9 +87,9 @@
             "description": "The mini framework",
             "support": {
                 "issues": "https://github.com/H-Gh/fox-framework/issues",
-                "source": "https://github.com/H-Gh/fox-framework/tree/v1.1.5"
+                "source": "https://github.com/H-Gh/fox-framework/tree/v1.2.2"
             },
-            "time": "2021-02-21T20:06:22+00:00"
+            "time": "2021-02-21T20:43:18+00:00"
         },
         {
             "name": "hgh/helpers",
